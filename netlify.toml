@@ -6,3 +6,5 @@
 
 [context.deploy-preview]
   publish = "."
+
+# Trigger deploy preview after Netlify project connection.
